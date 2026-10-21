@@ -1,0 +1,20 @@
+WEEK1:
+
+Worked on the initial data engineering setup for the CareFlow project.
+
+- Created a BigQuery Sandbox dataset and stored synthetic EHR event records for fictional patients.
+- Verified the data using SQL queries and exported the event data as a CSV file.
+- Learned how to load, inspect, and prepare hospital event-log data for further analysis.
+
+**Blocker:** Faced some limitations with BigQuery Sandbox data modification, so I used CSV upload to store the data.
+
+
+WEEK2:
+
+Worked on analyzing hospital patient pathways and identifying possible ER bottlenecks in CareFlow.
+
+- Used BigQuery SQL to analyze patient event sequences and investigate repeated activities.
+- Worked on window functions such as `LAG()` and timestamp differences to calculate delays between consecutive events.
+- Explored how to identify long waiting times and bottlenecks, and organize SQL queries for project documentation.
+
+**Learning:** Improved my understanding of SQL window functions, event-log analysis, and patient-flow bottleneck identification.
