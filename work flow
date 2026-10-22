@@ -1,0 +1,25 @@
+# CareFlow Project – Week 1 & Week 2 Workflow
+Week 1: Data Generation and BigQuery
+1. Created the CareFlow project in VS Code.
+2. Created simulate_ehr.py to generate simulated hospital event data using Python.
+3. Generated a CSV file containing patient activities and timestamps.
+4. Set up Google BigQuery Sandbox and created the dataset and raw event table.
+5. Uploaded the CSV file into BigQuery.
+6. Ran SQL queries to analyze patient ER stay duration and identify patients with longer stays.
+
+
+# WEEK2 : SQL Analysis
+1. Repeated events: Identified repeated tests or assessments that may indicate workflow loops.
+2. Time differences: Used LAG() to calculate the time between consecutive patient activities.
+3. Bottleneck identification: Analyzed the longest delays between activities.
+4. Saved results: Downloaded query results as CSV and worked on preserving SQL queries.
+
+
+# Files created or used in VS Code
+- simulate_ehr.py – Generates simulated hospital event data.
+- CSV file – Stores generated patient event records.
+- README.md – Project documentation.
+- requirements.txt – Python dependencies.
+- .gitignore – Files Git should ignore.
+
+Python generates the data → CSV stores it → BigQuery holds it → SQL analyzes it → CareFlow identifies potential delays.
