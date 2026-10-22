@@ -7,7 +7,7 @@ Week 1: EHR Simulation and Event Log Engineering
 
 **Project Domain:** Healthcare Operations & Process Analytics
 
-Today's Objective
+Today's Objective:
 Set up the initial synthetic Electronic Health Record (EHR) event data in BigQuery as the foundation for CareFlow's patient journey analysis.
 
 Tasks Completed
