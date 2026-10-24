@@ -1,0 +1,654 @@
+Case_ID,Current_Activity,Next_Activity,Current_Timestamp,Next_Timestamp,Delay_Minutes
+P0055,Doctor Assessment,Discharged,2026-01-07 02:14:00,2026-01-07 06:14:00,240.0
+P0054,Doctor Assessment,Discharged,2026-01-19 14:01:00,2026-01-19 17:57:00,236.0
+P0094,Medication Given,Discharged,2026-01-14 00:57:00,2026-01-14 04:52:00,235.0
+P0031,Lab Result Available,Discharged,2026-01-08 11:24:00,2026-01-08 15:19:00,235.0
+P0018,Medication Given,Discharged,2026-01-05 21:26:00,2026-01-06 01:20:00,234.0
+P0052,Radiology Result Available,Discharged,2026-01-02 21:27:00,2026-01-03 01:13:00,226.0
+P0067,Lab Result Available,Discharged,2026-01-22 02:25:00,2026-01-22 06:10:00,225.0
+P0062,Doctor Assessment,Discharged,2026-01-10 08:40:00,2026-01-10 12:24:00,224.0
+P0059,Radiology Result Available,Discharged,2026-01-13 11:14:00,2026-01-13 14:58:00,224.0
+P0051,Doctor Assessment,Discharged,2026-01-20 17:44:00,2026-01-20 21:27:00,223.0
+P0037,Doctor Assessment,Discharged,2026-01-24 16:18:00,2026-01-24 19:59:00,221.0
+P0035,Radiology Result Available,Discharged,2026-01-29 05:44:00,2026-01-29 09:23:00,219.0
+P0028,Medication Given,Discharged,2026-01-30 14:51:00,2026-01-30 18:30:00,219.0
+P0092,Lab Result Available,Discharged,2026-01-12 22:28:00,2026-01-13 02:05:00,217.0
+P0005,Medication Given,Discharged,2026-01-18 22:11:00,2026-01-19 01:47:00,216.0
+P0061,Medication Given,Discharged,2026-01-26 19:16:00,2026-01-26 22:50:00,214.0
+P0081,Lab Result Available,Discharged,2026-01-21 21:24:00,2026-01-22 00:52:00,208.0
+P0097,Medication Given,Discharged,2026-01-20 05:35:00,2026-01-20 08:56:00,201.0
+P0048,Lab Result Available,Discharged,2026-01-26 01:11:00,2026-01-26 04:32:00,201.0
+P0026,Medication Given,Discharged,2026-01-26 04:39:00,2026-01-26 07:59:00,200.0
+P0088,Doctor Assessment,Discharged,2026-01-09 15:08:00,2026-01-09 18:28:00,200.0
+P0039,Lab Result Available,Discharged,2026-01-16 05:34:00,2026-01-16 08:52:00,198.0
+P0038,Lab Result Available,Discharged,2026-01-09 10:23:00,2026-01-09 13:40:00,197.0
+P0096,Medication Given,Discharged,2026-01-12 07:56:00,2026-01-12 11:12:00,196.0
+P0069,Doctor Assessment,Discharged,2026-01-14 19:31:00,2026-01-14 22:41:00,190.0
+P0091,Lab Result Available,Discharged,2026-01-27 06:53:00,2026-01-27 10:01:00,188.0
+P0030,Lab Result Available,Discharged,2026-01-18 01:14:00,2026-01-18 04:22:00,188.0
+P0012,Lab Result Available,Discharged,2026-01-30 01:42:00,2026-01-30 04:45:00,183.0
+P0070,Medication Given,Discharged,2026-01-28 10:23:00,2026-01-28 13:25:00,182.0
+P0100,Medication Given,Discharged,2026-01-22 09:44:00,2026-01-22 12:44:00,180.0
+P0092,Triage Completed,Doctor Assessment,2026-01-12 18:08:00,2026-01-12 21:08:00,180.0
+P0085,Triage Completed,Doctor Assessment,2026-01-25 15:24:00,2026-01-25 18:24:00,180.0
+P0004,Triage Completed,Doctor Assessment,2026-01-04 22:36:00,2026-01-05 01:36:00,180.0
+P0076,Lab Test Ordered,Lab Result Available,2026-01-31 09:45:00,2026-01-31 12:44:00,179.0
+P0036,Lab Test Ordered,Lab Result Available,2026-01-10 08:43:00,2026-01-10 11:42:00,179.0
+P0024,Triage Completed,Doctor Assessment,2026-01-12 13:11:00,2026-01-12 16:09:00,178.0
+P0040,Triage Completed,Doctor Assessment,2026-01-05 05:21:00,2026-01-05 08:19:00,178.0
+P0060,Lab Result Available,Admitted,2026-01-12 10:27:00,2026-01-12 13:25:00,178.0
+P0096,Triage Completed,Doctor Assessment,2026-01-11 23:37:00,2026-01-12 02:35:00,178.0
+P0088,Triage Completed,Doctor Assessment,2026-01-09 07:47:00,2026-01-09 10:45:00,178.0
+P0098,Lab Test Ordered,Lab Result Available,2026-01-26 00:50:00,2026-01-26 03:47:00,177.0
+P0023,Doctor Assessment,Discharged,2026-01-08 17:03:00,2026-01-08 19:58:00,175.0
+P0066,Lab Test Ordered,Lab Result Available,2026-01-27 01:13:00,2026-01-27 04:08:00,175.0
+P0091,Triage Completed,Doctor Assessment,2026-01-27 02:26:00,2026-01-27 05:21:00,175.0
+P0012,Triage Completed,Doctor Assessment,2026-01-29 19:43:00,2026-01-29 22:38:00,175.0
+P0048,Triage Completed,Doctor Assessment,2026-01-25 20:41:00,2026-01-25 23:35:00,174.0
+P0023,Lab Test Ordered,Lab Result Available,2026-01-08 13:26:00,2026-01-08 16:18:00,172.0
+P0100,Triage Completed,Doctor Assessment,2026-01-22 01:03:00,2026-01-22 03:55:00,172.0
+P0021,Lab Result Available,Discharged,2026-01-09 00:23:00,2026-01-09 03:15:00,172.0
+P0059,Triage Completed,Doctor Assessment,2026-01-13 02:40:00,2026-01-13 05:32:00,172.0
+P0042,Lab Result Available,Discharged,2026-01-31 06:54:00,2026-01-31 09:46:00,172.0
+P0100,Doctor Assessment,Admitted,2026-01-22 06:17:00,2026-01-22 09:08:00,171.0
+P0057,Lab Test Ordered,Lab Result Available,2026-01-29 12:15:00,2026-01-29 15:06:00,171.0
+P0077,Medication Given,Discharged,2026-01-13 20:01:00,2026-01-13 22:52:00,171.0
+P0067,Triage Completed,Doctor Assessment,2026-01-21 20:36:00,2026-01-21 23:26:00,170.0
+P0089,Lab Test Ordered,Lab Result Available,2026-01-01 22:00:00,2026-01-02 00:50:00,170.0
+P0047,Triage Completed,Doctor Assessment,2026-01-10 18:32:00,2026-01-10 21:21:00,169.0
+P0088,Lab Test Ordered,Lab Result Available,2026-01-09 11:05:00,2026-01-09 13:54:00,169.0
+P0045,Medication Given,Discharged,2026-01-12 21:35:00,2026-01-13 00:23:00,168.0
+P0053,Lab Test Ordered,Lab Result Available,2026-01-18 04:22:00,2026-01-18 07:10:00,168.0
+P0033,Lab Result Available,Discharged,2026-01-10 07:01:00,2026-01-10 09:48:00,167.0
+P0004,Lab Test Ordered,Lab Result Available,2026-01-05 01:52:00,2026-01-05 04:39:00,167.0
+P0017,Lab Test Ordered,Lab Result Available,2026-01-24 20:59:00,2026-01-24 23:46:00,167.0
+P0041,Lab Test Ordered,Lab Result Available,2026-01-23 01:57:00,2026-01-23 04:44:00,167.0
+P0047,Lab Test Ordered,Lab Result Available,2026-01-10 21:26:00,2026-01-11 00:13:00,167.0
+P0026,Radiology Result Available,Admitted,2026-01-26 01:43:00,2026-01-26 04:28:00,165.0
+P0067,Lab Test Ordered,Lab Result Available,2026-01-21 23:40:00,2026-01-22 02:25:00,165.0
+P0022,Radiology Result Available,Discharged,2026-01-23 19:42:00,2026-01-23 22:27:00,165.0
+P0024,Lab Test Ordered,Lab Result Available,2026-01-12 16:58:00,2026-01-12 19:42:00,164.0
+P0083,Medication Given,Discharged,2026-01-19 05:53:00,2026-01-19 08:37:00,164.0
+P0029,Triage Completed,Doctor Assessment,2026-01-21 11:17:00,2026-01-21 14:00:00,163.0
+P0059,Lab Test Ordered,Lab Result Available,2026-01-13 05:45:00,2026-01-13 08:27:00,162.0
+P0064,Triage Completed,Doctor Assessment,2026-01-13 19:50:00,2026-01-13 22:31:00,161.0
+P0037,Lab Test Ordered,Lab Result Available,2026-01-24 12:29:00,2026-01-24 15:10:00,161.0
+P0029,Lab Test Ordered,Lab Result Available,2026-01-21 14:16:00,2026-01-21 16:55:00,159.0
+P0099,Lab Test Ordered,Lab Result Available,2026-01-21 15:18:00,2026-01-21 17:57:00,159.0
+P0081,Lab Test Ordered,Lab Result Available,2026-01-21 18:45:00,2026-01-21 21:24:00,159.0
+P0001,Lab Test Ordered,Lab Result Available,2026-01-30 12:23:00,2026-01-30 15:02:00,159.0
+P0089,Triage Completed,Doctor Assessment,2026-01-01 18:46:00,2026-01-01 21:25:00,159.0
+P0093,Doctor Assessment,Discharged,2026-01-07 12:28:00,2026-01-07 15:06:00,158.0
+P0012,Lab Test Ordered,Lab Result Available,2026-01-29 23:04:00,2026-01-30 01:42:00,158.0
+P0020,Triage Completed,Doctor Assessment,2026-01-26 09:19:00,2026-01-26 11:57:00,158.0
+P0022,Lab Test Ordered,Lab Result Available,2026-01-23 14:01:00,2026-01-23 16:39:00,158.0
+P0062,Triage Completed,Doctor Assessment,2026-01-10 02:40:00,2026-01-10 05:17:00,157.0
+P0049,Lab Test Ordered,Lab Result Available,2026-01-19 20:45:00,2026-01-19 23:21:00,156.0
+P0043,Lab Test Ordered,Lab Result Available,2026-01-12 18:10:00,2026-01-12 20:45:00,155.0
+P0010,Triage Completed,Doctor Assessment,2026-01-18 20:58:00,2026-01-18 23:33:00,155.0
+P0073,Radiology Result Available,Discharged,2026-01-13 20:22:00,2026-01-13 22:57:00,155.0
+P0058,Lab Result Available,Admitted,2026-01-14 05:48:00,2026-01-14 08:22:00,154.0
+P0045,Triage Completed,Doctor Assessment,2026-01-12 14:35:00,2026-01-12 17:08:00,153.0
+P0060,Medication Given,Discharged,2026-01-12 14:22:00,2026-01-12 16:53:00,151.0
+P0068,Radiology Result Available,Discharged,2026-01-11 00:40:00,2026-01-11 03:10:00,150.0
+P0080,Triage Completed,Doctor Assessment,2026-01-13 22:18:00,2026-01-14 00:47:00,149.0
+P0083,Lab Test Ordered,Lab Result Available,2026-01-19 00:41:00,2026-01-19 03:09:00,148.0
+P0096,Lab Result Available,Admitted,2026-01-12 04:40:00,2026-01-12 07:08:00,148.0
+P0007,Lab Result Available,Discharged,2026-01-02 23:00:00,2026-01-03 01:27:00,147.0
+P0083,Triage Completed,Doctor Assessment,2026-01-18 22:06:00,2026-01-19 00:32:00,146.0
+P0097,Lab Test Ordered,Lab Result Available,2026-01-19 23:01:00,2026-01-20 01:27:00,146.0
+P0097,Doctor Assessment,Admitted,2026-01-20 02:12:00,2026-01-20 04:38:00,146.0
+P0009,Triage Completed,Doctor Assessment,2026-01-11 08:16:00,2026-01-11 10:42:00,146.0
+P0089,Lab Result Available,Discharged,2026-01-02 00:50:00,2026-01-02 03:16:00,146.0
+P0064,Lab Test Ordered,Lab Result Available,2026-01-13 23:05:00,2026-01-14 01:30:00,145.0
+P0060,Triage Completed,Doctor Assessment,2026-01-12 07:14:00,2026-01-12 09:39:00,145.0
+P0028,Triage Completed,Doctor Assessment,2026-01-30 05:29:00,2026-01-30 07:54:00,145.0
+P0085,Lab Test Ordered,Lab Result Available,2026-01-25 18:53:00,2026-01-25 21:17:00,144.0
+P0017,Triage Completed,Doctor Assessment,2026-01-24 18:03:00,2026-01-24 20:27:00,144.0
+P0077,Lab Test Ordered,Lab Result Available,2026-01-13 14:03:00,2026-01-13 16:27:00,144.0
+P0094,Triage Completed,Doctor Assessment,2026-01-13 18:07:00,2026-01-13 20:30:00,143.0
+P0098,Medication Given,Discharged,2026-01-26 06:28:00,2026-01-26 08:51:00,143.0
+P0043,Lab Result Available,Discharged,2026-01-12 20:45:00,2026-01-12 23:08:00,143.0
+P0090,Triage Completed,Doctor Assessment,2026-01-15 02:34:00,2026-01-15 04:57:00,143.0
+P0019,Doctor Assessment,Discharged,2026-01-06 12:23:00,2026-01-06 14:46:00,143.0
+P0064,Doctor Assessment,Discharged,2026-01-14 01:46:00,2026-01-14 04:08:00,142.0
+P0083,Lab Result Available,Admitted,2026-01-19 03:09:00,2026-01-19 05:31:00,142.0
+P0039,Lab Test Ordered,Lab Result Available,2026-01-16 03:13:00,2026-01-16 05:34:00,141.0
+P0034,Lab Result Available,Discharged,2026-01-16 12:31:00,2026-01-16 14:52:00,141.0
+P0032,Lab Test Ordered,Lab Result Available,2026-01-12 16:18:00,2026-01-12 18:38:00,140.0
+P0051,Triage Completed,Doctor Assessment,2026-01-20 12:44:00,2026-01-20 15:04:00,140.0
+P0057,Triage Completed,Doctor Assessment,2026-01-29 09:28:00,2026-01-29 11:47:00,139.0
+P0049,Triage Completed,Doctor Assessment,2026-01-19 18:02:00,2026-01-19 20:21:00,139.0
+P0050,Triage Completed,Doctor Assessment,2026-01-30 14:24:00,2026-01-30 16:42:00,138.0
+P0058,Triage Completed,Doctor Assessment,2026-01-14 01:07:00,2026-01-14 03:25:00,138.0
+P0025,Triage Completed,Doctor Assessment,2026-01-19 08:48:00,2026-01-19 11:05:00,137.0
+P0047,Radiology Result Available,Discharged,2026-01-11 01:43:00,2026-01-11 04:00:00,137.0
+P0069,Lab Test Ordered,Lab Result Available,2026-01-14 16:31:00,2026-01-14 18:47:00,136.0
+P0075,Triage Completed,Doctor Assessment,2026-01-19 13:40:00,2026-01-19 15:56:00,136.0
+P0095,Lab Test Ordered,Lab Result Available,2026-01-26 19:32:00,2026-01-26 21:48:00,136.0
+P0041,Triage Completed,Doctor Assessment,2026-01-22 23:16:00,2026-01-23 01:32:00,136.0
+P0044,Lab Test Ordered,Lab Result Available,2026-01-29 08:28:00,2026-01-29 10:42:00,134.0
+P0039,Triage Completed,Doctor Assessment,2026-01-16 00:39:00,2026-01-16 02:52:00,133.0
+P0018,Lab Result Available,Admitted,2026-01-05 18:20:00,2026-01-05 20:33:00,133.0
+P0073,Lab Test Ordered,Lab Result Available,2026-01-13 16:07:00,2026-01-13 18:20:00,133.0
+P0086,Triage Completed,Doctor Assessment,2026-01-11 16:48:00,2026-01-11 18:59:00,131.0
+P0090,Lab Result Available,Admitted,2026-01-15 07:28:00,2026-01-15 09:39:00,131.0
+P0084,Lab Result Available,Admitted,2026-01-22 06:16:00,2026-01-22 08:27:00,131.0
+P0044,Triage Completed,Doctor Assessment,2026-01-29 05:57:00,2026-01-29 08:06:00,129.0
+P0061,Triage Completed,Doctor Assessment,2026-01-26 13:08:00,2026-01-26 15:16:00,128.0
+P0028,Lab Test Ordered,Lab Result Available,2026-01-30 08:07:00,2026-01-30 10:15:00,128.0
+P0070,Triage Completed,Doctor Assessment,2026-01-28 04:39:00,2026-01-28 06:47:00,128.0
+P0019,Lab Test Ordered,Lab Result Available,2026-01-06 09:01:00,2026-01-06 11:09:00,128.0
+P0082,Lab Result Available,Discharged,2026-01-12 07:36:00,2026-01-12 09:43:00,127.0
+P0066,Lab Result Available,Discharged,2026-01-27 04:08:00,2026-01-27 06:15:00,127.0
+P0095,Lab Result Available,Admitted,2026-01-26 21:48:00,2026-01-26 23:55:00,127.0
+P0002,Triage Completed,Doctor Assessment,2026-01-30 22:39:00,2026-01-31 00:46:00,127.0
+P0098,Triage Completed,Doctor Assessment,2026-01-25 22:24:00,2026-01-26 00:30:00,126.0
+P0003,Lab Result Available,Discharged,2026-01-05 17:19:00,2026-01-05 19:25:00,126.0
+P0053,Doctor Assessment,Discharged,2026-01-18 08:04:00,2026-01-18 10:10:00,126.0
+P0076,Triage Completed,Doctor Assessment,2026-01-31 07:03:00,2026-01-31 09:08:00,125.0
+P0098,Lab Result Available,Admitted,2026-01-26 03:47:00,2026-01-26 05:51:00,124.0
+P0074,Triage Completed,Doctor Assessment,2026-01-05 12:14:00,2026-01-05 14:18:00,124.0
+P0084,Triage Completed,Doctor Assessment,2026-01-22 03:24:00,2026-01-22 05:28:00,124.0
+P0071,Lab Test Ordered,Lab Result Available,2026-01-27 07:28:00,2026-01-27 09:31:00,123.0
+P0038,Triage Completed,Doctor Assessment,2026-01-09 06:38:00,2026-01-09 08:41:00,123.0
+P0008,Lab Result Available,Discharged,2026-01-07 23:35:00,2026-01-08 01:37:00,122.0
+P0095,Triage Completed,Doctor Assessment,2026-01-26 17:01:00,2026-01-26 19:02:00,121.0
+P0058,Medication Given,Discharged,2026-01-14 08:59:00,2026-01-14 10:59:00,120.0
+P0032,Lab Result Available,Doctor Assessment,2026-01-12 18:38:00,2026-01-12 20:37:00,119.0
+P0021,Triage Completed,Doctor Assessment,2026-01-08 20:02:00,2026-01-08 22:01:00,119.0
+P0035,Triage Completed,Doctor Assessment,2026-01-28 22:29:00,2026-01-29 00:27:00,118.0
+P0079,Lab Test Ordered,Lab Result Available,2026-01-20 08:03:00,2026-01-20 10:01:00,118.0
+P0028,Radiology Ordered,Radiology Result Available,2026-01-30 10:46:00,2026-01-30 12:44:00,118.0
+P0004,Radiology Ordered,Radiology Result Available,2026-01-05 05:26:00,2026-01-05 07:24:00,118.0
+P0058,Lab Test Ordered,Lab Result Available,2026-01-14 03:51:00,2026-01-14 05:48:00,117.0
+P0010,Lab Result Available,Admitted,2026-01-19 00:49:00,2026-01-19 02:46:00,117.0
+P0006,Triage Completed,Doctor Assessment,2026-01-12 12:03:00,2026-01-12 14:00:00,117.0
+P0015,Medication Given,Discharged,2026-01-26 03:15:00,2026-01-26 05:11:00,116.0
+P0045,Lab Result Available,Admitted,2026-01-12 18:50:00,2026-01-12 20:45:00,115.0
+P0015,Lab Test Ordered,Lab Result Available,2026-01-25 23:35:00,2026-01-26 01:30:00,115.0
+P0055,Lab Test Ordered,Lab Result Available,2026-01-06 22:43:00,2026-01-07 00:37:00,114.0
+P0084,Medication Given,Discharged,2026-01-22 08:47:00,2026-01-22 10:41:00,114.0
+P0054,Lab Result Available,Doctor Assessment,2026-01-19 12:08:00,2026-01-19 14:01:00,113.0
+P0005,Triage Completed,Doctor Assessment,2026-01-18 15:52:00,2026-01-18 17:45:00,113.0
+P0056,Triage Completed,Doctor Assessment,2026-01-23 16:02:00,2026-01-23 17:54:00,112.0
+P0087,Triage Completed,Doctor Assessment,2026-01-16 02:46:00,2026-01-16 04:37:00,111.0
+P0090,Lab Test Ordered,Lab Result Available,2026-01-15 05:37:00,2026-01-15 07:28:00,111.0
+P0003,Triage Completed,Doctor Assessment,2026-01-05 13:37:00,2026-01-05 15:28:00,111.0
+P0024,Lab Result Available,Admitted,2026-01-12 19:42:00,2026-01-12 21:32:00,110.0
+P0026,Radiology Ordered,Radiology Result Available,2026-01-25 23:53:00,2026-01-26 01:43:00,110.0
+P0018,Triage Completed,Doctor Assessment,2026-01-05 15:38:00,2026-01-05 17:28:00,110.0
+P0062,Lab Result Available,Doctor Assessment,2026-01-10 06:51:00,2026-01-10 08:40:00,109.0
+P0051,Lab Test Ordered,Lab Result Available,2026-01-20 15:32:00,2026-01-20 17:21:00,109.0
+P0029,Medication Given,Discharged,2026-01-21 19:14:00,2026-01-21 21:02:00,108.0
+P0055,Triage Completed,Doctor Assessment,2026-01-06 20:29:00,2026-01-06 22:17:00,108.0
+P0081,Triage Completed,Doctor Assessment,2026-01-21 16:28:00,2026-01-21 18:16:00,108.0
+P0035,Radiology Ordered,Radiology Result Available,2026-01-29 03:57:00,2026-01-29 05:44:00,107.0
+P0094,Lab Test Ordered,Lab Result Available,2026-01-13 20:44:00,2026-01-13 22:30:00,106.0
+P0036,Lab Result Available,Discharged,2026-01-10 11:42:00,2026-01-10 13:28:00,106.0
+P0100,Lab Test Ordered,Lab Result Available,2026-01-22 04:01:00,2026-01-22 05:46:00,105.0
+P0010,Medication Given,Discharged,2026-01-19 03:10:00,2026-01-19 04:55:00,105.0
+P0061,Lab Test Ordered,Lab Result Available,2026-01-26 15:38:00,2026-01-26 17:22:00,104.0
+P0041,Lab Result Available,Doctor Assessment,2026-01-23 04:44:00,2026-01-23 06:28:00,104.0
+P0093,Triage Completed,Doctor Assessment,2026-01-07 08:00:00,2026-01-07 09:43:00,103.0
+P0074,Lab Result Available,Discharged,2026-01-05 15:30:00,2026-01-05 17:13:00,103.0
+P0085,Radiology Result Available,Discharged,2026-01-25 22:21:00,2026-01-26 00:04:00,103.0
+P0050,Lab Test Ordered,Lab Result Available,2026-01-30 17:12:00,2026-01-30 18:55:00,103.0
+P0096,Lab Test Ordered,Lab Result Available,2026-01-12 02:57:00,2026-01-12 04:40:00,103.0
+P0037,Triage Completed,Doctor Assessment,2026-01-24 10:32:00,2026-01-24 12:15:00,103.0
+P0072,Triage Completed,Doctor Assessment,2026-01-28 13:49:00,2026-01-28 15:31:00,102.0
+P0072,Lab Result Available,Doctor Assessment,2026-01-28 16:19:00,2026-01-28 18:00:00,101.0
+P0050,Doctor Assessment,Discharged,2026-01-30 19:51:00,2026-01-30 21:32:00,101.0
+P0099,Lab Result Available,Admitted,2026-01-21 17:57:00,2026-01-21 19:37:00,100.0
+P0056,Lab Result Available,Discharged,2026-01-23 19:12:00,2026-01-23 20:51:00,99.0
+P0078,Radiology Result Available,Discharged,2026-01-02 03:28:00,2026-01-02 05:07:00,99.0
+P0015,Triage Completed,Doctor Assessment,2026-01-25 21:30:00,2026-01-25 23:09:00,99.0
+P0013,Lab Test Ordered,Lab Result Available,2026-01-16 03:35:00,2026-01-16 05:13:00,98.0
+P0024,Medication Given,Discharged,2026-01-12 22:12:00,2026-01-12 23:49:00,97.0
+P0055,Lab Result Available,Doctor Assessment,2026-01-07 00:37:00,2026-01-07 02:14:00,97.0
+P0028,Radiology Result Available,Admitted,2026-01-30 12:44:00,2026-01-30 14:21:00,97.0
+P0038,Lab Test Ordered,Lab Result Available,2026-01-09 08:46:00,2026-01-09 10:23:00,97.0
+P0080,Lab Test Ordered,Lab Result Available,2026-01-14 01:06:00,2026-01-14 02:42:00,96.0
+P0044,Lab Result Available,Discharged,2026-01-29 10:42:00,2026-01-29 12:18:00,96.0
+P0022,Triage Completed,Doctor Assessment,2026-01-23 11:57:00,2026-01-23 13:32:00,95.0
+P0077,Lab Result Available,Doctor Assessment,2026-01-13 16:27:00,2026-01-13 18:02:00,95.0
+P0025,Lab Result Available,Doctor Assessment,2026-01-19 12:12:00,2026-01-19 13:46:00,94.0
+P0069,Triage Completed,Doctor Assessment,2026-01-14 14:31:00,2026-01-14 16:04:00,93.0
+P0021,Lab Test Ordered,Lab Result Available,2026-01-08 22:50:00,2026-01-09 00:23:00,93.0
+P0077,Triage Completed,Doctor Assessment,2026-01-13 12:03:00,2026-01-13 13:36:00,93.0
+P0040,Medication Given,Discharged,2026-01-05 10:59:00,2026-01-05 12:31:00,92.0
+P0033,Triage Completed,Doctor Assessment,2026-01-10 03:30:00,2026-01-10 05:01:00,91.0
+P0033,Lab Test Ordered,Lab Result Available,2026-01-10 05:30:00,2026-01-10 07:01:00,91.0
+P0079,Lab Result Available,Doctor Assessment,2026-01-20 10:01:00,2026-01-20 11:32:00,91.0
+P0045,Lab Test Ordered,Lab Result Available,2026-01-12 17:20:00,2026-01-12 18:50:00,90.0
+P0001,Triage Completed,Doctor Assessment,2026-01-30 10:36:00,2026-01-30 12:06:00,90.0
+P0061,Lab Result Available,Admitted,2026-01-26 17:22:00,2026-01-26 18:51:00,89.0
+P0007,Triage Completed,Doctor Assessment,2026-01-02 19:40:00,2026-01-02 21:08:00,88.0
+P0032,Doctor Assessment,Admitted,2026-01-12 20:37:00,2026-01-12 22:05:00,88.0
+P0006,Lab Result Available,Discharged,2026-01-12 16:03:00,2026-01-12 17:31:00,88.0
+P0005,Lab Test Ordered,Lab Result Available,2026-01-18 18:12:00,2026-01-18 19:40:00,88.0
+P0026,Triage Completed,Doctor Assessment,2026-01-25 19:57:00,2026-01-25 21:24:00,87.0
+P0094,Lab Result Available,Admitted,2026-01-13 22:30:00,2026-01-13 23:57:00,87.0
+P0008,Lab Test Ordered,Lab Result Available,2026-01-07 22:08:00,2026-01-07 23:35:00,87.0
+P0003,Lab Test Ordered,Lab Result Available,2026-01-05 15:52:00,2026-01-05 17:19:00,87.0
+P0068,Triage Completed,Doctor Assessment,2026-01-10 19:25:00,2026-01-10 20:52:00,87.0
+P0015,Lab Result Available,Admitted,2026-01-26 01:30:00,2026-01-26 02:57:00,87.0
+P0011,Lab Test Ordered,Lab Result Available,2026-01-21 04:20:00,2026-01-21 05:47:00,87.0
+P0034,Triage Completed,Doctor Assessment,2026-01-16 09:59:00,2026-01-16 11:25:00,86.0
+P0035,Lab Test Ordered,Lab Result Available,2026-01-29 00:38:00,2026-01-29 02:03:00,85.0
+P0002,Radiology Result Available,Admitted,2026-01-31 03:23:00,2026-01-31 04:48:00,85.0
+P0093,Lab Result Available,Doctor Assessment,2026-01-07 11:04:00,2026-01-07 12:28:00,84.0
+P0065,Triage Completed,Doctor Assessment,2026-01-16 20:22:00,2026-01-16 21:46:00,84.0
+P0014,Lab Result Available,Discharged,2026-01-23 14:09:00,2026-01-23 15:33:00,84.0
+P0008,Triage Completed,Doctor Assessment,2026-01-07 20:23:00,2026-01-07 21:46:00,83.0
+P0066,Triage Completed,Doctor Assessment,2026-01-26 23:03:00,2026-01-27 00:26:00,83.0
+P0026,Lab Test Ordered,Lab Result Available,2026-01-25 21:47:00,2026-01-25 23:09:00,82.0
+P0087,Lab Test Ordered,Lab Result Available,2026-01-16 04:46:00,2026-01-16 06:08:00,82.0
+P0079,Triage Completed,Doctor Assessment,2026-01-20 06:32:00,2026-01-20 07:54:00,82.0
+P0054,Lab Test Ordered,Lab Result Available,2026-01-19 10:46:00,2026-01-19 12:08:00,82.0
+P0076,Lab Result Available,Discharged,2026-01-31 12:44:00,2026-01-31 14:06:00,82.0
+P0027,Lab Result Available,Discharged,2026-01-26 16:27:00,2026-01-26 17:49:00,82.0
+P0001,Admitted,Medication Given,2026-01-30 17:49:00,2026-01-30 19:10:00,81.0
+P0068,Lab Test Ordered,Lab Result Available,2026-01-10 21:02:00,2026-01-10 22:23:00,81.0
+P0022,Radiology Ordered,Radiology Result Available,2026-01-23 18:21:00,2026-01-23 19:42:00,81.0
+P0040,Lab Test Ordered,Lab Result Available,2026-01-05 08:48:00,2026-01-05 10:08:00,80.0
+P0020,Lab Test Ordered,Lab Result Available,2026-01-26 12:04:00,2026-01-26 13:24:00,80.0
+P0001,Medication Given,Discharged,2026-01-30 19:10:00,2026-01-30 20:30:00,80.0
+P0052,Radiology Ordered,Radiology Result Available,2026-01-02 20:08:00,2026-01-02 21:27:00,79.0
+P0082,Triage Completed,Doctor Assessment,2026-01-12 05:28:00,2026-01-12 06:47:00,79.0
+P0046,Triage Completed,Doctor Assessment,2026-01-05 00:20:00,2026-01-05 01:39:00,79.0
+P0091,Lab Test Ordered,Lab Result Available,2026-01-27 05:35:00,2026-01-27 06:53:00,78.0
+P0016,Triage Completed,Doctor Assessment,2026-01-02 07:47:00,2026-01-02 09:05:00,78.0
+P0063,Lab Test Ordered,Lab Result Available,2026-01-25 06:33:00,2026-01-25 07:51:00,78.0
+P0017,Lab Result Available,Discharged,2026-01-24 23:46:00,2026-01-25 01:04:00,78.0
+P0005,Admitted,Medication Given,2026-01-18 20:53:00,2026-01-18 22:11:00,78.0
+P0020,Lab Result Available,Doctor Assessment,2026-01-26 13:24:00,2026-01-26 14:41:00,77.0
+P0068,Radiology Ordered,Radiology Result Available,2026-01-10 23:23:00,2026-01-11 00:40:00,77.0
+P0048,Lab Test Ordered,Lab Result Available,2026-01-25 23:55:00,2026-01-26 01:11:00,76.0
+P0006,Lab Test Ordered,Lab Result Available,2026-01-12 14:47:00,2026-01-12 16:03:00,76.0
+P0073,Radiology Ordered,Radiology Result Available,2026-01-13 19:07:00,2026-01-13 20:22:00,75.0
+P0007,Lab Test Ordered,Lab Result Available,2026-01-02 21:46:00,2026-01-02 23:00:00,74.0
+P0046,Lab Test Ordered,Lab Result Available,2026-01-05 01:48:00,2026-01-05 03:02:00,74.0
+P0019,Lab Result Available,Doctor Assessment,2026-01-06 11:09:00,2026-01-06 12:23:00,74.0
+P0088,Lab Result Available,Doctor Assessment,2026-01-09 13:54:00,2026-01-09 15:08:00,74.0
+P0087,Lab Result Available,Discharged,2026-01-16 06:08:00,2026-01-16 07:21:00,73.0
+P0030,Triage Completed,Doctor Assessment,2026-01-17 22:49:00,2026-01-18 00:02:00,73.0
+P0005,Lab Result Available,Admitted,2026-01-18 19:40:00,2026-01-18 20:53:00,73.0
+P0059,Radiology Ordered,Radiology Result Available,2026-01-13 10:02:00,2026-01-13 11:14:00,72.0
+P0070,Lab Result Available,Admitted,2026-01-28 08:22:00,2026-01-28 09:34:00,72.0
+P0093,Lab Test Ordered,Lab Result Available,2026-01-07 09:53:00,2026-01-07 11:04:00,71.0
+P0035,Lab Result Available,Doctor Assessment,2026-01-29 02:03:00,2026-01-29 03:13:00,70.0
+P0077,Doctor Assessment,Admitted,2026-01-13 18:02:00,2026-01-13 19:12:00,70.0
+P0001,Lab Result Available,Doctor Assessment,2026-01-30 15:02:00,2026-01-30 16:11:00,69.0
+P0065,Medication Given,Discharged,2026-01-17 00:07:00,2026-01-17 01:15:00,68.0
+P0080,Lab Result Available,Discharged,2026-01-14 02:42:00,2026-01-14 03:50:00,68.0
+P0037,Lab Result Available,Doctor Assessment,2026-01-24 15:10:00,2026-01-24 16:18:00,68.0
+P0019,Triage Completed,Doctor Assessment,2026-01-06 07:44:00,2026-01-06 08:52:00,68.0
+P0062,Lab Test Ordered,Lab Result Available,2026-01-10 05:44:00,2026-01-10 06:51:00,67.0
+P0046,Lab Result Available,Doctor Assessment,2026-01-05 03:02:00,2026-01-05 04:09:00,67.0
+P0041,Doctor Assessment,Discharged,2026-01-23 06:28:00,2026-01-23 07:35:00,67.0
+P0031,Triage Completed,Doctor Assessment,2026-01-08 09:09:00,2026-01-08 10:14:00,65.0
+P0031,Lab Test Ordered,Lab Result Available,2026-01-08 10:19:00,2026-01-08 11:24:00,65.0
+P0049,Lab Result Available,Doctor Assessment,2026-01-19 23:21:00,2026-01-20 00:26:00,65.0
+P0042,Lab Test Ordered,Lab Result Available,2026-01-31 05:49:00,2026-01-31 06:54:00,65.0
+P0073,Triage Completed,Doctor Assessment,2026-01-13 14:38:00,2026-01-13 15:42:00,64.0
+P0002,Radiology Ordered,Radiology Result Available,2026-01-31 02:20:00,2026-01-31 03:23:00,63.0
+P0029,Lab Result Available,Doctor Assessment,2026-01-21 16:55:00,2026-01-21 17:57:00,62.0
+P0029,Doctor Assessment,Admitted,2026-01-21 17:57:00,2026-01-21 18:59:00,62.0
+P0063,Lab Result Available,Discharged,2026-01-25 07:51:00,2026-01-25 08:53:00,62.0
+P0014,Lab Test Ordered,Lab Result Available,2026-01-23 13:07:00,2026-01-23 14:09:00,62.0
+P0099,Medication Given,Discharged,2026-01-21 20:11:00,2026-01-21 21:12:00,61.0
+P0053,Triage Completed,Doctor Assessment,2026-01-18 03:13:00,2026-01-18 04:14:00,61.0
+P0094,Admitted,Medication Given,2026-01-13 23:57:00,2026-01-14 00:57:00,60.0
+P0056,Lab Test Ordered,Lab Result Available,2026-01-23 18:13:00,2026-01-23 19:12:00,59.0
+P0009,Lab Test Ordered,Lab Result Available,2026-01-11 10:56:00,2026-01-11 11:55:00,59.0
+P0027,Lab Test Ordered,Lab Result Available,2026-01-26 15:28:00,2026-01-26 16:27:00,59.0
+P0070,Lab Test Ordered,Lab Result Available,2026-01-28 07:24:00,2026-01-28 08:22:00,58.0
+P0047,Radiology Ordered,Radiology Result Available,2026-01-11 00:45:00,2026-01-11 01:43:00,58.0
+P0060,Admitted,Medication Given,2026-01-12 13:25:00,2026-01-12 14:22:00,57.0
+P0097,Admitted,Medication Given,2026-01-20 04:38:00,2026-01-20 05:35:00,57.0
+P0095,Admitted,Medication Given,2026-01-26 23:55:00,2026-01-27 00:52:00,57.0
+P0095,Medication Given,Discharged,2026-01-27 00:52:00,2026-01-27 01:49:00,57.0
+P0078,Radiology Ordered,Radiology Result Available,2026-01-02 02:31:00,2026-01-02 03:28:00,57.0
+P0011,Lab Result Available,Discharged,2026-01-21 05:47:00,2026-01-21 06:44:00,57.0
+P0059,Doctor Assessment,Radiology Ordered,2026-01-13 09:06:00,2026-01-13 10:02:00,56.0
+P0050,Lab Result Available,Doctor Assessment,2026-01-30 18:55:00,2026-01-30 19:51:00,56.0
+P0002,Medication Given,Discharged,2026-01-31 05:41:00,2026-01-31 06:37:00,56.0
+P0078,Lab Result Available,Radiology Ordered,2026-01-02 01:36:00,2026-01-02 02:31:00,55.0
+P0004,Medication Given,Discharged,2026-01-05 08:53:00,2026-01-05 09:48:00,55.0
+P0022,Lab Result Available,Doctor Assessment,2026-01-23 16:39:00,2026-01-23 17:34:00,55.0
+P0043,Triage Completed,Doctor Assessment,2026-01-12 16:50:00,2026-01-12 17:44:00,54.0
+P0027,Triage Completed,Doctor Assessment,2026-01-26 14:04:00,2026-01-26 14:58:00,54.0
+P0053,Lab Result Available,Doctor Assessment,2026-01-18 07:10:00,2026-01-18 08:04:00,54.0
+P0018,Admitted,Medication Given,2026-01-05 20:33:00,2026-01-05 21:26:00,53.0
+P0002,Admitted,Medication Given,2026-01-31 04:48:00,2026-01-31 05:41:00,53.0
+P0052,Lab Test Ordered,Lab Result Available,2026-01-02 18:53:00,2026-01-02 19:45:00,52.0
+P0057,Lab Result Available,Discharged,2026-01-29 15:06:00,2026-01-29 15:58:00,52.0
+P0014,Triage Completed,Doctor Assessment,2026-01-23 11:33:00,2026-01-23 12:25:00,52.0
+P0071,Triage Completed,Doctor Assessment,2026-01-27 06:23:00,2026-01-27 07:14:00,51.0
+P0013,Doctor Assessment,Discharged,2026-01-16 05:58:00,2026-01-16 06:49:00,51.0
+P0049,Doctor Assessment,Discharged,2026-01-20 00:26:00,2026-01-20 01:17:00,51.0
+P0045,Admitted,Medication Given,2026-01-12 20:45:00,2026-01-12 21:35:00,50.0
+P0071,Lab Result Available,Discharged,2026-01-27 09:31:00,2026-01-27 10:21:00,50.0
+P0085,Radiology Ordered,Radiology Result Available,2026-01-25 21:31:00,2026-01-25 22:21:00,50.0
+P0078,Lab Test Ordered,Lab Result Available,2026-01-02 00:46:00,2026-01-02 01:36:00,50.0
+P0004,Radiology Result Available,Admitted,2026-01-05 07:24:00,2026-01-05 08:14:00,50.0
+P0075,Lab Test Ordered,Lab Result Available,2026-01-19 16:24:00,2026-01-19 17:13:00,49.0
+P0065,Lab Test Ordered,Lab Result Available,2026-01-16 22:06:00,2026-01-16 22:55:00,49.0
+P0070,Admitted,Medication Given,2026-01-28 09:34:00,2026-01-28 10:23:00,49.0
+P0010,Lab Test Ordered,Lab Result Available,2026-01-19 00:00:00,2026-01-19 00:49:00,49.0
+P0077,Admitted,Medication Given,2026-01-13 19:12:00,2026-01-13 20:01:00,49.0
+P0025,Doctor Assessment,Discharged,2026-01-19 13:46:00,2026-01-19 14:34:00,48.0
+P0016,Radiology Result Available,Discharged,2026-01-02 10:26:00,2026-01-02 11:14:00,48.0
+P0013,Triage Completed,Doctor Assessment,2026-01-16 02:17:00,2026-01-16 03:05:00,48.0
+P0096,Admitted,Medication Given,2026-01-12 07:08:00,2026-01-12 07:56:00,48.0
+P0032,Triage Completed,Doctor Assessment,2026-01-12 15:25:00,2026-01-12 16:12:00,47.0
+P0079,Doctor Assessment,Discharged,2026-01-20 11:32:00,2026-01-20 12:19:00,47.0
+P0001,Radiology Ordered,Radiology Result Available,2026-01-30 16:26:00,2026-01-30 17:13:00,47.0
+P0022,Doctor Assessment,Radiology Ordered,2026-01-23 17:34:00,2026-01-23 18:21:00,47.0
+P0034,Lab Test Ordered,Lab Result Available,2026-01-16 11:44:00,2026-01-16 12:31:00,47.0
+P0073,Lab Result Available,Radiology Ordered,2026-01-13 18:20:00,2026-01-13 19:07:00,47.0
+P0042,Triage Completed,Doctor Assessment,2026-01-31 04:50:00,2026-01-31 05:37:00,47.0
+P0074,Lab Test Ordered,Lab Result Available,2026-01-05 14:44:00,2026-01-05 15:30:00,46.0
+P0009,Lab Result Available,Discharged,2026-01-11 11:55:00,2026-01-11 12:41:00,46.0
+P0030,Lab Test Ordered,Lab Result Available,2026-01-18 00:28:00,2026-01-18 01:14:00,46.0
+P0023,Lab Result Available,Doctor Assessment,2026-01-08 16:18:00,2026-01-08 17:03:00,45.0
+P0086,Lab Test Ordered,Lab Result Available,2026-01-11 19:28:00,2026-01-11 20:13:00,45.0
+P0097,Lab Result Available,Doctor Assessment,2026-01-20 01:27:00,2026-01-20 02:12:00,45.0
+P0016,Patient Arrived,Triage Completed,2026-01-02 07:02:00,2026-01-02 07:47:00,45.0
+P0046,Doctor Assessment,Discharged,2026-01-05 04:09:00,2026-01-05 04:54:00,45.0
+P0090,Admitted,Medication Given,2026-01-15 09:39:00,2026-01-15 10:24:00,45.0
+P0099,Triage Completed,Doctor Assessment,2026-01-21 14:17:00,2026-01-21 15:02:00,45.0
+P0013,Lab Result Available,Doctor Assessment,2026-01-16 05:13:00,2026-01-16 05:58:00,45.0
+P0020,Doctor Assessment,Discharged,2026-01-26 14:41:00,2026-01-26 15:26:00,45.0
+P0063,Triage Completed,Doctor Assessment,2026-01-25 05:34:00,2026-01-25 06:19:00,45.0
+P0026,Lab Result Available,Radiology Ordered,2026-01-25 23:09:00,2026-01-25 23:53:00,44.0
+P0035,Doctor Assessment,Radiology Ordered,2026-01-29 03:13:00,2026-01-29 03:57:00,44.0
+P0069,Lab Result Available,Doctor Assessment,2026-01-14 18:47:00,2026-01-14 19:31:00,44.0
+P0048,Patient Arrived,Triage Completed,2026-01-25 19:57:00,2026-01-25 20:41:00,44.0
+P0014,Patient Arrived,Triage Completed,2026-01-23 10:49:00,2026-01-23 11:33:00,44.0
+P0002,Patient Arrived,Triage Completed,2026-01-30 21:55:00,2026-01-30 22:39:00,44.0
+P0065,Lab Result Available,Admitted,2026-01-16 22:55:00,2026-01-16 23:38:00,43.0
+P0072,Lab Test Ordered,Lab Result Available,2026-01-28 15:36:00,2026-01-28 16:19:00,43.0
+P0060,Lab Test Ordered,Lab Result Available,2026-01-12 09:44:00,2026-01-12 10:27:00,43.0
+P0078,Triage Completed,Doctor Assessment,2026-01-01 23:36:00,2026-01-02 00:19:00,43.0
+P0023,Patient Arrived,Triage Completed,2026-01-08 11:57:00,2026-01-08 12:39:00,42.0
+P0026,Patient Arrived,Triage Completed,2026-01-25 19:15:00,2026-01-25 19:57:00,42.0
+P0040,Patient Arrived,Triage Completed,2026-01-05 04:39:00,2026-01-05 05:21:00,42.0
+P0009,Patient Arrived,Triage Completed,2026-01-11 07:34:00,2026-01-11 08:16:00,42.0
+P0012,Patient Arrived,Triage Completed,2026-01-29 19:01:00,2026-01-29 19:43:00,42.0
+P0028,Patient Arrived,Triage Completed,2026-01-30 04:47:00,2026-01-30 05:29:00,42.0
+P0044,Patient Arrived,Triage Completed,2026-01-29 05:15:00,2026-01-29 05:57:00,42.0
+P0086,Lab Result Available,Discharged,2026-01-11 20:13:00,2026-01-11 20:54:00,41.0
+P0023,Triage Completed,Doctor Assessment,2026-01-08 12:39:00,2026-01-08 13:19:00,40.0
+P0024,Admitted,Medication Given,2026-01-12 21:32:00,2026-01-12 22:12:00,40.0
+P0079,Patient Arrived,Triage Completed,2026-01-20 05:52:00,2026-01-20 06:32:00,40.0
+P0060,Patient Arrived,Triage Completed,2026-01-12 06:34:00,2026-01-12 07:14:00,40.0
+P0081,Patient Arrived,Triage Completed,2026-01-21 15:48:00,2026-01-21 16:28:00,40.0
+P0057,Patient Arrived,Triage Completed,2026-01-29 08:48:00,2026-01-29 09:28:00,40.0
+P0043,Patient Arrived,Triage Completed,2026-01-12 16:11:00,2026-01-12 16:50:00,39.0
+P0054,Triage Completed,Doctor Assessment,2026-01-19 09:42:00,2026-01-19 10:21:00,39.0
+P0059,Lab Result Available,Doctor Assessment,2026-01-13 08:27:00,2026-01-13 09:06:00,39.0
+P0004,Admitted,Medication Given,2026-01-05 08:14:00,2026-01-05 08:53:00,39.0
+P0010,Patient Arrived,Triage Completed,2026-01-18 20:19:00,2026-01-18 20:58:00,39.0
+P0076,Patient Arrived,Triage Completed,2026-01-31 06:24:00,2026-01-31 07:03:00,39.0
+P0006,Patient Arrived,Triage Completed,2026-01-12 11:24:00,2026-01-12 12:03:00,39.0
+P0084,Lab Test Ordered,Lab Result Available,2026-01-22 05:37:00,2026-01-22 06:16:00,39.0
+P0005,Patient Arrived,Triage Completed,2026-01-18 15:13:00,2026-01-18 15:52:00,39.0
+P0011,Patient Arrived,Triage Completed,2026-01-21 02:53:00,2026-01-21 03:32:00,39.0
+P0032,Admitted,Medication Given,2026-01-12 22:05:00,2026-01-12 22:43:00,38.0
+P0025,Lab Test Ordered,Lab Result Available,2026-01-19 11:34:00,2026-01-19 12:12:00,38.0
+P0071,Patient Arrived,Triage Completed,2026-01-27 05:45:00,2026-01-27 06:23:00,38.0
+P0016,Lab Test Ordered,Lab Result Available,2026-01-02 09:10:00,2026-01-02 09:48:00,38.0
+P0039,Patient Arrived,Triage Completed,2026-01-16 00:01:00,2026-01-16 00:39:00,38.0
+P0029,Patient Arrived,Triage Completed,2026-01-21 10:40:00,2026-01-21 11:17:00,37.0
+P0098,Admitted,Medication Given,2026-01-26 05:51:00,2026-01-26 06:28:00,37.0
+P0072,Patient Arrived,Triage Completed,2026-01-28 13:12:00,2026-01-28 13:49:00,37.0
+P0056,Patient Arrived,Triage Completed,2026-01-23 15:25:00,2026-01-23 16:02:00,37.0
+P0058,Admitted,Medication Given,2026-01-14 08:22:00,2026-01-14 08:59:00,37.0
+P0018,Patient Arrived,Triage Completed,2026-01-05 15:01:00,2026-01-05 15:38:00,37.0
+P0036,Patient Arrived,Triage Completed,2026-01-10 07:14:00,2026-01-10 07:51:00,37.0
+P0036,Triage Completed,Doctor Assessment,2026-01-10 07:51:00,2026-01-10 08:28:00,37.0
+P0002,Lab Result Available,Radiology Ordered,2026-01-31 01:43:00,2026-01-31 02:20:00,37.0
+P0032,Medication Given,Discharged,2026-01-12 22:43:00,2026-01-12 23:19:00,36.0
+P0100,Admitted,Medication Given,2026-01-22 09:08:00,2026-01-22 09:44:00,36.0
+P0040,Lab Result Available,Admitted,2026-01-05 10:08:00,2026-01-05 10:44:00,36.0
+P0078,Patient Arrived,Triage Completed,2026-01-01 23:00:00,2026-01-01 23:36:00,36.0
+P0001,Radiology Result Available,Admitted,2026-01-30 17:13:00,2026-01-30 17:49:00,36.0
+P0068,Doctor Assessment,Radiology Ordered,2026-01-10 22:47:00,2026-01-10 23:23:00,36.0
+P0037,Patient Arrived,Triage Completed,2026-01-24 09:56:00,2026-01-24 10:32:00,36.0
+P0007,Patient Arrived,Triage Completed,2026-01-02 19:05:00,2026-01-02 19:40:00,35.0
+P0072,Doctor Assessment,Discharged,2026-01-28 18:00:00,2026-01-28 18:35:00,35.0
+P0082,Patient Arrived,Triage Completed,2026-01-12 04:54:00,2026-01-12 05:28:00,34.0
+P0090,Patient Arrived,Triage Completed,2026-01-15 02:00:00,2026-01-15 02:34:00,34.0
+P0099,Admitted,Medication Given,2026-01-21 19:37:00,2026-01-21 20:11:00,34.0
+P0047,Patient Arrived,Triage Completed,2026-01-10 17:58:00,2026-01-10 18:32:00,34.0
+P0088,Patient Arrived,Triage Completed,2026-01-09 07:13:00,2026-01-09 07:47:00,34.0
+P0099,Patient Arrived,Triage Completed,2026-01-21 13:44:00,2026-01-21 14:17:00,33.0
+P0018,Lab Test Ordered,Lab Result Available,2026-01-05 17:47:00,2026-01-05 18:20:00,33.0
+P0061,Patient Arrived,Triage Completed,2026-01-26 12:36:00,2026-01-26 13:08:00,32.0
+P0074,Patient Arrived,Triage Completed,2026-01-05 11:42:00,2026-01-05 12:14:00,32.0
+P0090,Medication Given,Discharged,2026-01-15 10:24:00,2026-01-15 10:56:00,32.0
+P0030,Patient Arrived,Triage Completed,2026-01-17 22:17:00,2026-01-17 22:49:00,32.0
+P0047,Lab Result Available,Radiology Ordered,2026-01-11 00:13:00,2026-01-11 00:45:00,32.0
+P0082,Lab Test Ordered,Lab Result Available,2026-01-12 07:05:00,2026-01-12 07:36:00,31.0
+P0100,Lab Result Available,Doctor Assessment,2026-01-22 05:46:00,2026-01-22 06:17:00,31.0
+P0033,Patient Arrived,Triage Completed,2026-01-10 02:59:00,2026-01-10 03:30:00,31.0
+P0097,Triage Completed,Doctor Assessment,2026-01-19 22:16:00,2026-01-19 22:47:00,31.0
+P0028,Lab Result Available,Radiology Ordered,2026-01-30 10:15:00,2026-01-30 10:46:00,31.0
+P0080,Patient Arrived,Triage Completed,2026-01-13 21:47:00,2026-01-13 22:18:00,31.0
+P0075,Lab Result Available,Discharged,2026-01-19 17:13:00,2026-01-19 17:43:00,30.0
+P0092,Lab Test Ordered,Lab Result Available,2026-01-12 21:58:00,2026-01-12 22:28:00,30.0
+P0085,Patient Arrived,Triage Completed,2026-01-25 14:54:00,2026-01-25 15:24:00,30.0
+P0013,Doctor Assessment,Lab Test Ordered,2026-01-16 03:05:00,2026-01-16 03:35:00,30.0
+P0021,Doctor Assessment,Lab Test Ordered,2026-01-08 22:01:00,2026-01-08 22:31:00,30.0
+P0028,Admitted,Medication Given,2026-01-30 14:21:00,2026-01-30 14:51:00,30.0
+P0067,Patient Arrived,Triage Completed,2026-01-21 20:07:00,2026-01-21 20:36:00,29.0
+P0025,Patient Arrived,Triage Completed,2026-01-19 08:19:00,2026-01-19 08:48:00,29.0
+P0025,Doctor Assessment,Lab Test Ordered,2026-01-19 11:05:00,2026-01-19 11:34:00,29.0
+P0033,Doctor Assessment,Lab Test Ordered,2026-01-10 05:01:00,2026-01-10 05:30:00,29.0
+P0086,Doctor Assessment,Lab Test Ordered,2026-01-11 18:59:00,2026-01-11 19:28:00,29.0
+P0065,Admitted,Medication Given,2026-01-16 23:38:00,2026-01-17 00:07:00,29.0
+P0066,Doctor Assessment,Lab Test Ordered,2026-01-27 00:26:00,2026-01-27 00:55:00,29.0
+P0040,Doctor Assessment,Lab Test Ordered,2026-01-05 08:19:00,2026-01-05 08:48:00,29.0
+P0085,Doctor Assessment,Lab Test Ordered,2026-01-25 18:24:00,2026-01-25 18:53:00,29.0
+P0081,Doctor Assessment,Lab Test Ordered,2026-01-21 18:16:00,2026-01-21 18:45:00,29.0
+P0038,Patient Arrived,Triage Completed,2026-01-09 06:09:00,2026-01-09 06:38:00,29.0
+P0093,Patient Arrived,Triage Completed,2026-01-07 07:32:00,2026-01-07 08:00:00,28.0
+P0087,Patient Arrived,Triage Completed,2026-01-16 02:18:00,2026-01-16 02:46:00,28.0
+P0004,Patient Arrived,Triage Completed,2026-01-04 22:08:00,2026-01-04 22:36:00,28.0
+P0057,Doctor Assessment,Lab Test Ordered,2026-01-29 11:47:00,2026-01-29 12:15:00,28.0
+P0063,Patient Arrived,Triage Completed,2026-01-25 05:06:00,2026-01-25 05:34:00,28.0
+P0089,Patient Arrived,Triage Completed,2026-01-01 18:18:00,2026-01-01 18:46:00,28.0
+P0011,Doctor Assessment,Lab Test Ordered,2026-01-21 03:52:00,2026-01-21 04:20:00,28.0
+P0069,Doctor Assessment,Lab Test Ordered,2026-01-14 16:04:00,2026-01-14 16:31:00,27.0
+P0062,Doctor Assessment,Lab Test Ordered,2026-01-10 05:17:00,2026-01-10 05:44:00,27.0
+P0045,Patient Arrived,Triage Completed,2026-01-12 14:08:00,2026-01-12 14:35:00,27.0
+P0059,Patient Arrived,Triage Completed,2026-01-13 02:13:00,2026-01-13 02:40:00,27.0
+P0017,Patient Arrived,Triage Completed,2026-01-24 17:36:00,2026-01-24 18:03:00,27.0
+P0077,Doctor Assessment,Lab Test Ordered,2026-01-13 13:36:00,2026-01-13 14:03:00,27.0
+P0024,Doctor Assessment,Lab Test Ordered,2026-01-12 16:09:00,2026-01-12 16:35:00,26.0
+P0094,Patient Arrived,Triage Completed,2026-01-13 17:41:00,2026-01-13 18:07:00,26.0
+P0043,Doctor Assessment,Lab Test Ordered,2026-01-12 17:44:00,2026-01-12 18:10:00,26.0
+P0074,Doctor Assessment,Lab Test Ordered,2026-01-05 14:18:00,2026-01-05 14:44:00,26.0
+P0055,Doctor Assessment,Lab Test Ordered,2026-01-06 22:17:00,2026-01-06 22:43:00,26.0
+P0058,Doctor Assessment,Lab Test Ordered,2026-01-14 03:25:00,2026-01-14 03:51:00,26.0
+P0030,Doctor Assessment,Lab Test Ordered,2026-01-18 00:02:00,2026-01-18 00:28:00,26.0
+P0015,Doctor Assessment,Lab Test Ordered,2026-01-25 23:09:00,2026-01-25 23:35:00,26.0
+P0052,Triage Completed,Doctor Assessment,2026-01-02 18:16:00,2026-01-02 18:41:00,25.0
+P0064,Lab Test Ordered,Lab Test Ordered,2026-01-13 22:40:00,2026-01-13 23:05:00,25.0
+P0061,Admitted,Medication Given,2026-01-26 18:51:00,2026-01-26 19:16:00,25.0
+P0092,Doctor Assessment,Lab Test Ordered,2026-01-12 21:08:00,2026-01-12 21:33:00,25.0
+P0092,Lab Test Ordered,Lab Test Ordered,2026-01-12 21:33:00,2026-01-12 21:58:00,25.0
+P0054,Doctor Assessment,Lab Test Ordered,2026-01-19 10:21:00,2026-01-19 10:46:00,25.0
+P0058,Patient Arrived,Triage Completed,2026-01-14 00:42:00,2026-01-14 01:07:00,25.0
+P0070,Lab Test Ordered,Lab Test Ordered,2026-01-28 06:59:00,2026-01-28 07:24:00,25.0
+P0006,Doctor Assessment,Lab Test Ordered,2026-01-12 14:00:00,2026-01-12 14:25:00,25.0
+P0041,Doctor Assessment,Lab Test Ordered,2026-01-23 01:32:00,2026-01-23 01:57:00,25.0
+P0073,Doctor Assessment,Lab Test Ordered,2026-01-13 15:42:00,2026-01-13 16:07:00,25.0
+P0069,Patient Arrived,Triage Completed,2026-01-14 14:07:00,2026-01-14 14:31:00,24.0
+P0016,Radiology Ordered,Radiology Result Available,2026-01-02 10:02:00,2026-01-02 10:26:00,24.0
+P0003,Doctor Assessment,Lab Test Ordered,2026-01-05 15:28:00,2026-01-05 15:52:00,24.0
+P0004,Doctor Assessment,Radiology Ordered,2026-01-05 05:02:00,2026-01-05 05:26:00,24.0
+P0068,Lab Result Available,Doctor Assessment,2026-01-10 22:23:00,2026-01-10 22:47:00,24.0
+P0010,Admitted,Medication Given,2026-01-19 02:46:00,2026-01-19 03:10:00,24.0
+P0049,Doctor Assessment,Lab Test Ordered,2026-01-19 20:21:00,2026-01-19 20:45:00,24.0
+P0007,Doctor Assessment,Lab Test Ordered,2026-01-02 21:08:00,2026-01-02 21:31:00,23.0
+P0024,Lab Test Ordered,Lab Test Ordered,2026-01-12 16:35:00,2026-01-12 16:58:00,23.0
+P0052,Lab Result Available,Radiology Ordered,2026-01-02 19:45:00,2026-01-02 20:08:00,23.0
+P0100,Patient Arrived,Triage Completed,2026-01-22 00:40:00,2026-01-22 01:03:00,23.0
+P0090,Lab Test Ordered,Lab Test Ordered,2026-01-15 05:14:00,2026-01-15 05:37:00,23.0
+P0004,Lab Result Available,Doctor Assessment,2026-01-05 04:39:00,2026-01-05 05:02:00,23.0
+P0051,Lab Result Available,Doctor Assessment,2026-01-20 17:21:00,2026-01-20 17:44:00,23.0
+P0068,Patient Arrived,Triage Completed,2026-01-10 19:02:00,2026-01-10 19:25:00,23.0
+P0017,Lab Test Ordered,Lab Test Ordered,2026-01-24 20:36:00,2026-01-24 20:59:00,23.0
+P0022,Lab Test Ordered,Lab Test Ordered,2026-01-23 13:38:00,2026-01-23 14:01:00,23.0
+P0002,Doctor Assessment,Lab Test Ordered,2026-01-31 00:46:00,2026-01-31 01:09:00,23.0
+P0052,Patient Arrived,Triage Completed,2026-01-02 17:54:00,2026-01-02 18:16:00,22.0
+P0008,Doctor Assessment,Lab Test Ordered,2026-01-07 21:46:00,2026-01-07 22:08:00,22.0
+P0061,Doctor Assessment,Lab Test Ordered,2026-01-26 15:16:00,2026-01-26 15:38:00,22.0
+P0083,Admitted,Medication Given,2026-01-19 05:31:00,2026-01-19 05:53:00,22.0
+P0054,Patient Arrived,Triage Completed,2026-01-19 09:20:00,2026-01-19 09:42:00,22.0
+P0095,Doctor Assessment,Lab Test Ordered,2026-01-26 19:02:00,2026-01-26 19:24:00,22.0
+P0051,Doctor Assessment,Lab Test Ordered,2026-01-20 15:04:00,2026-01-20 15:26:00,22.0
+P0070,Patient Arrived,Triage Completed,2026-01-28 04:17:00,2026-01-28 04:39:00,22.0
+P0096,Doctor Assessment,Lab Test Ordered,2026-01-12 02:35:00,2026-01-12 02:57:00,22.0
+P0010,Doctor Assessment,Lab Test Ordered,2026-01-18 23:33:00,2026-01-18 23:55:00,22.0
+P0022,Patient Arrived,Triage Completed,2026-01-23 11:35:00,2026-01-23 11:57:00,22.0
+P0006,Lab Test Ordered,Lab Test Ordered,2026-01-12 14:25:00,2026-01-12 14:47:00,22.0
+P0015,Patient Arrived,Triage Completed,2026-01-25 21:08:00,2026-01-25 21:30:00,22.0
+P0044,Doctor Assessment,Lab Test Ordered,2026-01-29 08:06:00,2026-01-29 08:28:00,22.0
+P0014,Lab Test Ordered,Lab Test Ordered,2026-01-23 12:45:00,2026-01-23 13:07:00,22.0
+P0019,Patient Arrived,Triage Completed,2026-01-06 07:22:00,2026-01-06 07:44:00,22.0
+P0027,Lab Test Ordered,Lab Test Ordered,2026-01-26 15:06:00,2026-01-26 15:28:00,22.0
+P0039,Doctor Assessment,Lab Test Ordered,2026-01-16 02:52:00,2026-01-16 03:13:00,21.0
+P0076,Doctor Assessment,Lab Test Ordered,2026-01-31 09:08:00,2026-01-31 09:29:00,21.0
+P0002,Lab Test Ordered,Lab Result Available,2026-01-31 01:22:00,2026-01-31 01:43:00,21.0
+P0032,Patient Arrived,Triage Completed,2026-01-12 15:05:00,2026-01-12 15:25:00,20.0
+P0098,Doctor Assessment,Lab Test Ordered,2026-01-26 00:30:00,2026-01-26 00:50:00,20.0
+P0065,Doctor Assessment,Lab Test Ordered,2026-01-16 21:46:00,2026-01-16 22:06:00,20.0
+P0048,Doctor Assessment,Lab Test Ordered,2026-01-25 23:35:00,2026-01-25 23:55:00,20.0
+P0031,Patient Arrived,Triage Completed,2026-01-08 08:49:00,2026-01-08 09:09:00,20.0
+P0084,Admitted,Medication Given,2026-01-22 08:27:00,2026-01-22 08:47:00,20.0
+P0011,Triage Completed,Doctor Assessment,2026-01-21 03:32:00,2026-01-21 03:52:00,20.0
+P0014,Doctor Assessment,Lab Test Ordered,2026-01-23 12:25:00,2026-01-23 12:45:00,20.0
+P0049,Patient Arrived,Triage Completed,2026-01-19 17:42:00,2026-01-19 18:02:00,20.0
+P0088,Doctor Assessment,Lab Test Ordered,2026-01-09 10:45:00,2026-01-09 11:05:00,20.0
+P0098,Patient Arrived,Triage Completed,2026-01-25 22:05:00,2026-01-25 22:24:00,19.0
+P0083,Patient Arrived,Triage Completed,2026-01-18 21:47:00,2026-01-18 22:06:00,19.0
+P0046,Patient Arrived,Triage Completed,2026-01-05 00:01:00,2026-01-05 00:20:00,19.0
+P0021,Lab Test Ordered,Lab Test Ordered,2026-01-08 22:31:00,2026-01-08 22:50:00,19.0
+P0056,Doctor Assessment,Lab Test Ordered,2026-01-23 17:54:00,2026-01-23 18:13:00,19.0
+P0078,Lab Test Ordered,Lab Test Ordered,2026-01-02 00:27:00,2026-01-02 00:46:00,19.0
+P0018,Doctor Assessment,Lab Test Ordered,2026-01-05 17:28:00,2026-01-05 17:47:00,19.0
+P0084,Patient Arrived,Triage Completed,2026-01-22 03:05:00,2026-01-22 03:24:00,19.0
+P0089,Doctor Assessment,Lab Test Ordered,2026-01-01 21:25:00,2026-01-01 21:44:00,19.0
+P0082,Doctor Assessment,Lab Test Ordered,2026-01-12 06:47:00,2026-01-12 07:05:00,18.0
+P0008,Patient Arrived,Triage Completed,2026-01-07 20:05:00,2026-01-07 20:23:00,18.0
+P0092,Patient Arrived,Triage Completed,2026-01-12 17:50:00,2026-01-12 18:08:00,18.0
+P0066,Lab Test Ordered,Lab Test Ordered,2026-01-27 00:55:00,2026-01-27 01:13:00,18.0
+P0097,Patient Arrived,Triage Completed,2026-01-19 21:58:00,2026-01-19 22:16:00,18.0
+P0050,Patient Arrived,Triage Completed,2026-01-30 14:06:00,2026-01-30 14:24:00,18.0
+P0015,Admitted,Medication Given,2026-01-26 02:57:00,2026-01-26 03:15:00,18.0
+P0077,Patient Arrived,Triage Completed,2026-01-13 11:45:00,2026-01-13 12:03:00,18.0
+P0035,Patient Arrived,Triage Completed,2026-01-28 22:12:00,2026-01-28 22:29:00,17.0
+P0062,Patient Arrived,Triage Completed,2026-01-10 02:23:00,2026-01-10 02:40:00,17.0
+P0090,Doctor Assessment,Lab Test Ordered,2026-01-15 04:57:00,2026-01-15 05:14:00,17.0
+P0050,Lab Test Ordered,Lab Test Ordered,2026-01-30 16:55:00,2026-01-30 17:12:00,17.0
+P0034,Patient Arrived,Triage Completed,2026-01-16 09:42:00,2026-01-16 09:59:00,17.0
+P0053,Patient Arrived,Triage Completed,2026-01-18 02:56:00,2026-01-18 03:13:00,17.0
+P0026,Doctor Assessment,Lab Test Ordered,2026-01-25 21:24:00,2026-01-25 21:40:00,16.0
+P0064,Lab Result Available,Doctor Assessment,2026-01-14 01:30:00,2026-01-14 01:46:00,16.0
+P0099,Doctor Assessment,Lab Test Ordered,2026-01-21 15:02:00,2026-01-21 15:18:00,16.0
+P0012,Doctor Assessment,Lab Test Ordered,2026-01-29 22:38:00,2026-01-29 22:54:00,16.0
+P0003,Patient Arrived,Triage Completed,2026-01-05 13:21:00,2026-01-05 13:37:00,16.0
+P0004,Doctor Assessment,Lab Test Ordered,2026-01-05 01:36:00,2026-01-05 01:52:00,16.0
+P0076,Lab Test Ordered,Lab Test Ordered,2026-01-31 09:29:00,2026-01-31 09:45:00,16.0
+P0089,Lab Test Ordered,Lab Test Ordered,2026-01-01 21:44:00,2026-01-01 22:00:00,16.0
+P0005,Doctor Assessment,Lab Test Ordered,2026-01-18 17:45:00,2026-01-18 18:01:00,16.0
+P0027,Patient Arrived,Triage Completed,2026-01-26 13:48:00,2026-01-26 14:04:00,16.0
+P0007,Lab Test Ordered,Lab Test Ordered,2026-01-02 21:31:00,2026-01-02 21:46:00,15.0
+P0029,Admitted,Medication Given,2026-01-21 18:59:00,2026-01-21 19:14:00,15.0
+P0075,Lab Test Ordered,Lab Test Ordered,2026-01-19 16:09:00,2026-01-19 16:24:00,15.0
+P0086,Patient Arrived,Triage Completed,2026-01-11 16:33:00,2026-01-11 16:48:00,15.0
+P0066,Patient Arrived,Triage Completed,2026-01-26 22:48:00,2026-01-26 23:03:00,15.0
+P0040,Admitted,Medication Given,2026-01-05 10:44:00,2026-01-05 10:59:00,15.0
+P0095,Patient Arrived,Triage Completed,2026-01-26 16:46:00,2026-01-26 17:01:00,15.0
+P0001,Doctor Assessment,Radiology Ordered,2026-01-30 16:11:00,2026-01-30 16:26:00,15.0
+P0051,Patient Arrived,Triage Completed,2026-01-20 12:29:00,2026-01-20 12:44:00,15.0
+P0036,Doctor Assessment,Lab Test Ordered,2026-01-10 08:28:00,2026-01-10 08:43:00,15.0
+P0067,Doctor Assessment,Lab Test Ordered,2026-01-21 23:26:00,2026-01-21 23:40:00,14.0
+P0094,Doctor Assessment,Lab Test Ordered,2026-01-13 20:30:00,2026-01-13 20:44:00,14.0
+P0091,Doctor Assessment,Lab Test Ordered,2026-01-27 05:21:00,2026-01-27 05:35:00,14.0
+P0071,Doctor Assessment,Lab Test Ordered,2026-01-27 07:14:00,2026-01-27 07:28:00,14.0
+P0097,Doctor Assessment,Lab Test Ordered,2026-01-19 22:47:00,2026-01-19 23:01:00,14.0
+P0016,Lab Result Available,Radiology Ordered,2026-01-02 09:48:00,2026-01-02 10:02:00,14.0
+P0085,Lab Result Available,Radiology Ordered,2026-01-25 21:17:00,2026-01-25 21:31:00,14.0
+P0080,Lab Test Ordered,Lab Test Ordered,2026-01-14 00:52:00,2026-01-14 01:06:00,14.0
+P0063,Doctor Assessment,Lab Test Ordered,2026-01-25 06:19:00,2026-01-25 06:33:00,14.0
+P0037,Doctor Assessment,Lab Test Ordered,2026-01-24 12:15:00,2026-01-24 12:29:00,14.0
+P0041,Patient Arrived,Triage Completed,2026-01-22 23:02:00,2026-01-22 23:16:00,14.0
+P0064,Patient Arrived,Triage Completed,2026-01-13 19:37:00,2026-01-13 19:50:00,13.0
+P0075,Doctor Assessment,Lab Test Ordered,2026-01-19 15:56:00,2026-01-19 16:09:00,13.0
+P0065,Patient Arrived,Triage Completed,2026-01-16 20:09:00,2026-01-16 20:22:00,13.0
+P0091,Patient Arrived,Triage Completed,2026-01-27 02:13:00,2026-01-27 02:26:00,13.0
+P0059,Doctor Assessment,Lab Test Ordered,2026-01-13 05:32:00,2026-01-13 05:45:00,13.0
+P0020,Patient Arrived,Triage Completed,2026-01-26 09:06:00,2026-01-26 09:19:00,13.0
+P0050,Doctor Assessment,Lab Test Ordered,2026-01-30 16:42:00,2026-01-30 16:55:00,13.0
+P0034,Doctor Assessment,Lab Test Ordered,2026-01-16 11:25:00,2026-01-16 11:38:00,13.0
+P0002,Lab Test Ordered,Lab Test Ordered,2026-01-31 01:09:00,2026-01-31 01:22:00,13.0
+P0024,Patient Arrived,Triage Completed,2026-01-12 12:59:00,2026-01-12 13:11:00,12.0
+P0052,Doctor Assessment,Lab Test Ordered,2026-01-02 18:41:00,2026-01-02 18:53:00,12.0
+P0075,Patient Arrived,Triage Completed,2026-01-19 13:28:00,2026-01-19 13:40:00,12.0
+P0055,Patient Arrived,Triage Completed,2026-01-06 20:17:00,2026-01-06 20:29:00,12.0
+P0045,Doctor Assessment,Lab Test Ordered,2026-01-12 17:08:00,2026-01-12 17:20:00,12.0
+P0070,Doctor Assessment,Lab Test Ordered,2026-01-28 06:47:00,2026-01-28 06:59:00,12.0
+P0073,Patient Arrived,Triage Completed,2026-01-13 14:26:00,2026-01-13 14:38:00,12.0
+P0042,Doctor Assessment,Lab Test Ordered,2026-01-31 05:37:00,2026-01-31 05:49:00,12.0
+P0026,Admitted,Medication Given,2026-01-26 04:28:00,2026-01-26 04:39:00,11.0
+P0035,Doctor Assessment,Lab Test Ordered,2026-01-29 00:27:00,2026-01-29 00:38:00,11.0
+P0013,Patient Arrived,Triage Completed,2026-01-16 02:06:00,2026-01-16 02:17:00,11.0
+P0001,Patient Arrived,Triage Completed,2026-01-30 10:25:00,2026-01-30 10:36:00,11.0
+P0096,Patient Arrived,Triage Completed,2026-01-11 23:26:00,2026-01-11 23:37:00,11.0
+P0005,Lab Test Ordered,Lab Test Ordered,2026-01-18 18:01:00,2026-01-18 18:12:00,11.0
+P0093,Doctor Assessment,Lab Test Ordered,2026-01-07 09:43:00,2026-01-07 09:53:00,10.0
+P0021,Patient Arrived,Triage Completed,2026-01-08 19:52:00,2026-01-08 20:02:00,10.0
+P0012,Lab Test Ordered,Lab Test Ordered,2026-01-29 22:54:00,2026-01-29 23:04:00,10.0
+P0068,Doctor Assessment,Lab Test Ordered,2026-01-10 20:52:00,2026-01-10 21:02:00,10.0
+P0042,Patient Arrived,Triage Completed,2026-01-31 04:40:00,2026-01-31 04:50:00,10.0
+P0029,Lab Test Ordered,Lab Test Ordered,2026-01-21 14:07:00,2026-01-21 14:16:00,9.0
+P0064,Doctor Assessment,Lab Test Ordered,2026-01-13 22:31:00,2026-01-13 22:40:00,9.0
+P0087,Doctor Assessment,Lab Test Ordered,2026-01-16 04:37:00,2026-01-16 04:46:00,9.0
+P0079,Doctor Assessment,Lab Test Ordered,2026-01-20 07:54:00,2026-01-20 08:03:00,9.0
+P0083,Doctor Assessment,Lab Test Ordered,2026-01-19 00:32:00,2026-01-19 00:41:00,9.0
+P0046,Doctor Assessment,Lab Test Ordered,2026-01-05 01:39:00,2026-01-05 01:48:00,9.0
+P0001,Doctor Assessment,Lab Test Ordered,2026-01-30 12:06:00,2026-01-30 12:15:00,9.0
+P0017,Doctor Assessment,Lab Test Ordered,2026-01-24 20:27:00,2026-01-24 20:36:00,9.0
+P0084,Doctor Assessment,Lab Test Ordered,2026-01-22 05:28:00,2026-01-22 05:37:00,9.0
+P0019,Doctor Assessment,Lab Test Ordered,2026-01-06 08:52:00,2026-01-06 09:01:00,9.0
+P0095,Lab Test Ordered,Lab Test Ordered,2026-01-26 19:24:00,2026-01-26 19:32:00,8.0
+P0009,Lab Test Ordered,Lab Test Ordered,2026-01-11 10:48:00,2026-01-11 10:56:00,8.0
+P0078,Doctor Assessment,Lab Test Ordered,2026-01-02 00:19:00,2026-01-02 00:27:00,8.0
+P0001,Lab Test Ordered,Lab Test Ordered,2026-01-30 12:15:00,2026-01-30 12:23:00,8.0
+P0027,Doctor Assessment,Lab Test Ordered,2026-01-26 14:58:00,2026-01-26 15:06:00,8.0
+P0053,Doctor Assessment,Lab Test Ordered,2026-01-18 04:14:00,2026-01-18 04:22:00,8.0
+P0023,Doctor Assessment,Lab Test Ordered,2026-01-08 13:19:00,2026-01-08 13:26:00,7.0
+P0026,Lab Test Ordered,Lab Test Ordered,2026-01-25 21:40:00,2026-01-25 21:47:00,7.0
+P0029,Doctor Assessment,Lab Test Ordered,2026-01-21 14:00:00,2026-01-21 14:07:00,7.0
+P0020,Doctor Assessment,Lab Test Ordered,2026-01-26 11:57:00,2026-01-26 12:04:00,7.0
+P0028,Lab Test Ordered,Lab Test Ordered,2026-01-30 08:00:00,2026-01-30 08:07:00,7.0
+P0032,Doctor Assessment,Lab Test Ordered,2026-01-12 16:12:00,2026-01-12 16:18:00,6.0
+P0100,Doctor Assessment,Lab Test Ordered,2026-01-22 03:55:00,2026-01-22 04:01:00,6.0
+P0009,Doctor Assessment,Lab Test Ordered,2026-01-11 10:42:00,2026-01-11 10:48:00,6.0
+P0028,Doctor Assessment,Lab Test Ordered,2026-01-30 07:54:00,2026-01-30 08:00:00,6.0
+P0051,Lab Test Ordered,Lab Test Ordered,2026-01-20 15:26:00,2026-01-20 15:32:00,6.0
+P0022,Doctor Assessment,Lab Test Ordered,2026-01-23 13:32:00,2026-01-23 13:38:00,6.0
+P0034,Lab Test Ordered,Lab Test Ordered,2026-01-16 11:38:00,2026-01-16 11:44:00,6.0
+P0072,Doctor Assessment,Lab Test Ordered,2026-01-28 15:31:00,2026-01-28 15:36:00,5.0
+P0060,Doctor Assessment,Lab Test Ordered,2026-01-12 09:39:00,2026-01-12 09:44:00,5.0
+P0016,Doctor Assessment,Lab Test Ordered,2026-01-02 09:05:00,2026-01-02 09:10:00,5.0
+P0080,Doctor Assessment,Lab Test Ordered,2026-01-14 00:47:00,2026-01-14 00:52:00,5.0
+P0010,Lab Test Ordered,Lab Test Ordered,2026-01-18 23:55:00,2026-01-19 00:00:00,5.0
+P0031,Doctor Assessment,Lab Test Ordered,2026-01-08 10:14:00,2026-01-08 10:19:00,5.0
+P0038,Doctor Assessment,Lab Test Ordered,2026-01-09 08:41:00,2026-01-09 08:46:00,5.0
+P0047,Doctor Assessment,Lab Test Ordered,2026-01-10 21:21:00,2026-01-10 21:26:00,5.0

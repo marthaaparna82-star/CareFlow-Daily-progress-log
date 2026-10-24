@@ -1,0 +1,18 @@
+From_Activity,To_Activity,Frequency
+Doctor Assessment,Lab Test Ordered,100
+Patient Arrived,Triage Completed,100
+Triage Completed,Doctor Assessment,100
+Lab Test Ordered,Lab Result Available,100
+Lab Result Available,Discharged,39
+Lab Result Available,Doctor Assessment,32
+Lab Test Ordered,Lab Test Ordered,31
+Admitted,Medication Given,30
+Medication Given,Discharged,30
+Doctor Assessment,Discharged,21
+Lab Result Available,Admitted,20
+Radiology Ordered,Radiology Result Available,15
+Radiology Result Available,Discharged,10
+Lab Result Available,Radiology Ordered,9
+Doctor Assessment,Radiology Ordered,6
+Doctor Assessment,Admitted,5
+Radiology Result Available,Admitted,5
