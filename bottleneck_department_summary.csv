@@ -1,0 +1,6 @@
+﻿department,valid_event_count,incoming_transition_count,average_incoming_elapsed_minutes,median_incoming_elapsed_minutes,maximum_incoming_elapsed_minutes,department_assignment
+Emergency,432,332,88.55,74.0,240.0,Department of the next activity in each transition
+Inpatient,30,30,105.57,105.0,178.0,Department of the next activity in each transition
+Lab,231,231,55.04,26.0,179.0,Department of the next activity in each transition
+Pharmacy,30,30,40.23,38.5,81.0,Department of the next activity in each transition
+Radiology,30,30,55.17,48.5,118.0,Department of the next activity in each transition

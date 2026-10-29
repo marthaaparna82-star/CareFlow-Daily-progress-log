@@ -1,0 +1,2 @@
+﻿total_patients,total_events,events_with_valid_timestamps,events_used_for_transitions,patients_with_transitions,transition_count,average_elapsed_minutes,median_elapsed_minutes,slowest_transition,slowest_transition_average_minutes,negative_duration_transitions_excluded,invalid_timestamp_events,missing_patient_id_events,missing_event_name_events,missing_department_events
+100,753,753,753,100,653,73.72,51.0,Radiology Result Available -> Discharged,152.6,0,0,0,0,0
