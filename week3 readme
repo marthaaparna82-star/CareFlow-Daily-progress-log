@@ -1,0 +1,50 @@
+# Week 3 – Bottleneck Analysis and Power BI Dashboard Preparation
+
+## Project Name
+**CareFlow: Clinical Pathway Process Mining**
+
+## Objective
+The main objective of Week 3 was to analyse hospital event logs, calculate the elapsed time between patient activities, and identify transitions that may have delays.
+
+## Work Completed
+
+1. Used Python and Pandas in VS Code to analyse hospital event log data.
+2. Sorted patient activities based on timestamps.
+3. Calculated elapsed time between consecutive activities for each patient.
+4. Identified slow activity transitions and analysed department performance.
+5. Generated five CSV files for Power BI dashboard development.
+6. Imported the generated CSV files into Power BI Desktop.
+
+## Analysis Results
+
+- Total Patients: 100
+- Total Events: 753
+- Activity Transitions Analysed: 653
+- Average Elapsed Time: 73.72 minutes
+- Slowest Transition: Radiology Result Available → Discharged
+- Average Elapsed Time for Slowest Transition: 152.6 minutes
+
+## Output Files
+
+The analysis generated five CSV files:
+
+- `bottleneck_dashboard_metrics.csv`
+- `bottleneck_department_summary.csv`
+- `bottleneck_report.csv`
+- `bottleneck_sorted_events.csv`
+- `bottleneck_transition_summary.csv`
+
+## Tools Used
+
+- Python
+- Pandas
+- VS Code
+- CSV
+- DuckDB
+- Power BI Desktop
+
+## Outcome
+
+Successfully completed the Python-based bottleneck analysis and prepared the output data for Power BI dashboard development.
+
+
