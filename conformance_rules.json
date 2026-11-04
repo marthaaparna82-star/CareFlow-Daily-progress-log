@@ -1,0 +1,45 @@
+{
+  "input_columns": {
+    "patient_id": "Case_ID",
+    "activity": "Activity_Name",
+    "timestamp": "Timestamp"
+  },
+  "steps": [
+    {
+      "name": "Registration",
+      "activities": ["Patient Arrived"],
+      "required": true
+    },
+    {
+      "name": "Triage",
+      "activities": ["Triage Completed"],
+      "required": true
+    },
+    {
+      "name": "Doctor Consultation",
+      "activities": ["Doctor Assessment"],
+      "required": true
+    },
+    {
+      "name": "X-Ray",
+      "activities": ["Radiology Ordered", "Radiology Result Available"],
+      "required": false,
+      "complete_if_started": true
+    },
+    {
+      "name": "Treatment",
+      "activities": ["Medication Given"],
+      "required": true
+    },
+    {
+      "name": "Discharge",
+      "activities": ["Discharged"],
+      "required": true
+    }
+  ],
+  "allowed_supporting_activities": [
+    "Lab Test Ordered",
+    "Lab Result Available"
+  ],
+  "unexpected_activities": ["Admitted"]
+}
