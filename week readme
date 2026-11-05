@@ -1,0 +1,33 @@
+ CareFlow – Week 4: Conformance Checking & Dashboard Enhancement
+
+## Overview
+In Week 4, I focused on implementing Conformance Checking in the CareFlow project. The main objective was to compare actual patient journeys with the hospital's expected clinical pathway and identify process deviations.
+
+## 1. Conformance Checking
+- Defined the expected hospital patient journey.
+- Compared actual patient activities with the expected sequence.
+- Identified missing activities, incorrect sequences, repeated activities, and unnecessary loop-backs.
+- Generated a conformance report showing compliant and non-compliant patient journeys.
+- Included reasons for process deviations.
+
+## 2. Dashboard Enhancement
+Improved the existing Power BI dashboard with additional analysis features:
+- Patient compliance status.
+- Compliant and non-compliant patient counts.
+- Doctor/resource-based filtering.
+- Patient-level journey analysis.
+- Process deviation identification.
+- Interactive drill-down capabilities.
+
+## 3. Technologies Used
+- Python
+- Pandas
+- PM4Py
+- DuckDB
+- Power BI
+- CSV Event Logs
+
+## 4. Expected Outcome
+The Week 4 implementation helps hospital administrators understand whether patients follow the expected clinical pathway. It also highlights process deviations and provides better visibility into operational inefficiencies.
+
+
