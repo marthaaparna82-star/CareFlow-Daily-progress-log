@@ -1,0 +1,206 @@
+# CareFlow: Clinical Pathway Process Mining
+
+## 1. Project Overview
+
+**Project Name:** CareFlow – Clinical Pathway Process Mining  
+**Domain:** Healthcare Operations and Process Analytics  
+**Project Type:** Data Engineering, Process Mining and Business Intelligence
+
+CareFlow is a healthcare process analytics project that analyses hospital patient journeys using Electronic Health Record (EHR) event logs. It aims to identify delays, repeated activities and bottlenecks in hospital workflows.
+
+The project uses Python, data processing and process mining techniques to understand how patients move between hospital departments and help administrators identify areas for improvement.
+
+## 2. Problem Statement
+
+Hospital administrators often know the average patient waiting time, but they may not know exactly where delays happen.
+
+Traditional dashboards show summary information but cannot always explain the actual sequence of patient activities.
+
+CareFlow aims to analyse patient journeys and identify process delays and repeated activities.
+
+## 3. Project Objectives
+
+- Generate simulated hospital event log data.
+- Prepare and clean the event log data.
+- Understand patient movement through hospital departments.
+- Identify repeated activities and process bottlenecks.
+- Calculate elapsed time between consecutive activities.
+- Develop a Power BI dashboard to visualise the analysis.
+- Support better understanding of hospital workflows.
+
+## 4. Technologies and Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Python | Generate and process hospital event data |
+| Pandas | Data cleaning and analysis |
+| DuckDB | Local data storage and querying |
+| PM4Py | Process mining and event log analysis |
+| CSV | Store and exchange event log data |
+| VS Code | Python development and project management |
+| Power BI Desktop | Dashboard development and data visualisation |
+| BigQuery | Explored as a cloud data warehouse |
+| dbt | Explored for data transformation |
+
+**Note:** The project initially explored BigQuery and dbt. Due to cloud authentication issues, the working pipeline was continued locally using CSV and DuckDB.
+
+## 5. Week-wise Development
+
+### Week 1 – EHR Event Log Simulation
+
+**Objective:** Generate simulated hospital event log data.
+
+**Work Completed:**
+- Created a Python script to generate mock hospital event logs.
+- Generated patient activities with timestamps.
+- Included patient IDs, activities, resources and departments.
+- Introduced repeated activities and loop-backs to represent possible hospital process inefficiencies.
+
+**Outcome:** Generated simulated hospital event log data for further analysis.
+
+### Week 2 – Data Preparation and Process Mining Setup
+
+**Objective:** Prepare event log data for process mining.
+
+**Work Completed:**
+- Checked and examined the generated event log data.
+- Identified missing timestamps and prepared the data.
+- Explored BigQuery and dbt for data storage and transformation.
+- Shifted to a local workflow using CSV and DuckDB due to cloud authentication issues.
+- Prepared the event data for process mining using PM4Py.
+
+**Outcome:** Prepared the event log data and local processing environment for further analysis.
+
+### Week 3 – Bottleneck Analysis and Power BI Preparation
+
+**Objective:** Identify slow transitions in patient journeys.
+
+**Work Completed:**
+- Used Python and Pandas to analyse hospital event logs.
+- Sorted patient activities based on timestamps.
+- Calculated elapsed time between consecutive activities for each patient.
+- Identified transitions with higher elapsed times.
+- Generated five CSV files for Power BI.
+- Imported the generated files into Power BI Desktop.
+
+**Analysis Results:**
+
+- Total Patients: 100
+- Total Events: 753
+- Activity Transitions Analysed: 653
+- Average Elapsed Time: 73.72 minutes
+- Slowest Transition: Radiology Result Available → Discharged
+- Average Elapsed Time for this Transition: 152.6 minutes
+
+**Outcome:** Completed Python-based bottleneck analysis and prepared the data for dashboard development.
+
+### Week 4 – Conformance Checking and Dashboard Improvement
+
+**Objective:** Compare patient pathways and improve dashboard presentation.
+
+**Work Areas:**
+- Compare actual patient journeys with the expected hospital process.
+- Identify activities or paths that differ from the expected workflow.
+- Improve Power BI dashboard visuals.
+- Work with filtering and drill-down features to explore process information.
+- Improve the presentation of bottleneck and patient pathway information.
+
+**Outcome:** Focused on patient pathway checking and improving dashboard usability.
+
+## 6. Project Workflow
+
+The overall project follows this workflow:
+
+1. Generate simulated hospital event logs using Python.
+2. Prepare and organise the event log data.
+3. Store and process data locally using CSV and DuckDB.
+4. Prepare event logs for process mining using PM4Py.
+5. Analyse patient activities and calculate elapsed time using Python and Pandas.
+6. Identify slow activity transitions and possible bottlenecks.
+7. Export analysis results into CSV files.
+8. Import the results into Power BI Desktop.
+9. Develop dashboard visuals for process analysis.
+
+## 7. Dataset Description
+
+The hospital event log dataset contains the following fields:
+
+| Column | Description |
+|---|---|
+| patient_id | Unique patient identification |
+| activity | Activity performed by the patient |
+| event_time | Date and time of the activity |
+| resource | Staff or resource involved |
+| department | Hospital department |
+
+Each row represents an event or activity performed during a patient's hospital journey.
+
+## 8. Generated Output Files
+
+The bottleneck analysis generated five CSV files:
+
+1. `bottleneck_dashboard_metrics.csv` – Summary metrics for dashboard KPIs.
+2. `bottleneck_department_summary.csv` – Department-level summary information.
+3. `bottleneck_report.csv` – Bottleneck analysis report.
+4. `bottleneck_sorted_events.csv` – Patient events arranged in timestamp order.
+5. `bottleneck_transition_summary.csv` – Summary of elapsed time between activities.
+
+These files were imported into Power BI Desktop for dashboard preparation.
+
+## 9. Expected Dashboard Components
+
+The CareFlow Power BI dashboard is designed to include:
+
+- KPI cards showing patient and event counts.
+- Average elapsed time.
+- Slowest activity transitions.
+- Department performance analysis.
+- Patient pathway information.
+- Filters and drill-down options.
+
+## 10. Challenges Faced
+
+- Cloud authentication issues while working with BigQuery.
+- Preparing event log data with missing timestamps.
+- Understanding and analysing repeated patient activities.
+- Calculating elapsed time between consecutive events.
+- Connecting multiple CSV output files to Power BI.
+
+**Solutions:** Continued the workflow locally using CSV and DuckDB, prepared the data using Python and Pandas, and imported the analysis outputs into Power BI Desktop.
+
+## 11. Key Learnings
+
+Through this project, I gained practical experience in:
+
+- Python programming and data processing.
+- Working with Pandas.
+- Understanding hospital event logs.
+- Data preparation and handling missing values.
+- Process mining concepts.
+- Bottleneck and transition-time analysis.
+- Working with DuckDB and CSV files.
+- Preparing data for Power BI dashboards.
+- Understanding healthcare workflow analysis.
+
+## 12. Future Improvements
+
+- Complete and improve the Power BI dashboard.
+- Develop a detailed patient process flow visualisation.
+- Improve process conformance checking.
+- Analyse more hospital event data.
+- Add more interactive filters and drill-down features.
+- Explore methods to reduce delays in hospital workflows.
+
+## 13. Final Conclusion
+
+CareFlow demonstrates how event log data can be used to understand hospital patient journeys and identify possible process bottlenecks.
+
+The project combines Python-based data processing, process mining concepts and Power BI dashboard preparation to support healthcare operations analysis.
+
+It helped me gain practical knowledge of data engineering, data analytics, process mining and business intelligence.
+
+---
+
+**Project:** CareFlow – Clinical Pathway Process Mining  
+**Domain:** Healthcare Operations and Process Analytics  
+**Primary Tools:** Python, Pandas, DuckDB, PM4Py, VS Code and Power BI Desktop
